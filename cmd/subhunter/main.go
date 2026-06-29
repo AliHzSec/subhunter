@@ -13,7 +13,7 @@ import (
 	"github.com/projectdiscovery/goflags"
 )
 
-const version = "1.0.0"
+const version = "1.0.1"
 
 func main() {
 	opts := &runner.Options{}
