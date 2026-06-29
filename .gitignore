@@ -1,0 +1,8 @@
+.DS_Store
+cmd/subhunter/subhunter
+vendor/
+.idea
+.devcontainer
+.vscode
+dist
+/subfinder
